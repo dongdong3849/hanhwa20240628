@@ -132,7 +132,7 @@ a img { border: none; }
 
 #wrap section.innovation .innovationInner { width: 1400px; height: 100%; margin: 0 auto; } 
 
-#wrap section.innovation .innovationInner .imgbox { width: 1400px; height: 540px; background: url(../images/products_1.jpg) no-repeat center/cover; margin-top: 60px; position: relative; } 
+#wrap section.innovation .innovationInner .imgbox { width: 1400px; height: 540px; background: url(../images/product_1.jpg) no-repeat center/cover; margin-top: 60px; position: relative; } 
 
 #wrap section.innovation .innovationInner .imgbox .inner { width: 80%; box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25); position: absolute; left: 50%; bottom: -50px; transform: translate(-50%); } 
 
